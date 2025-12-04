@@ -9,7 +9,7 @@
 ## Features
 
 - Live stock prices via the Trading 212 API
-- Uses a common **I²C LCD** modules (16×2, 20×4, etc.)
+- Uses a common I²C LCD modules (16×2, 20×4, etc)
 - Automatic price refresh interval
 - ESP32 Wi-Fi enabled
 - Fully open-source (MIT)
