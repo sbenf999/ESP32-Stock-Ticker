@@ -6,12 +6,6 @@
 ![Language](https://img.shields.io/badge/Language-Python-yellow.svg)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg)
 
-
-## Overview
-
-The **ESP32-Stock-Ticker** is a simple, lightweight device that fetches **live stock price data** from the Trading 212 API and displays it on an **I²C LCD module**.  
-
-
 ## Features
 
 - Live stock prices via the Trading 212 API
